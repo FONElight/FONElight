@@ -1,13 +1,5 @@
 ### Hi there, I'm yangdongi 👋
-
-<!--
-**FONElight/FONElight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-### Hi there 👋, my name is Yangdongi
-#### 사람들의 일상 속 불편함을 들여다보는 양지은입니다
-![사람들의 일상 속 불편함을 들여다보는 양지은입니다](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### 사람들의 일상 속 불편함을 들여다보는 양지은입니다.
 
 기획자는 명확한 데이터를 기반으로 프로젝트를 진행해야한다고 생각합니다. 데이터를 찾을 수 있는 범위에서 프로젝트를 진행하며 성장하고 있습니다.
 
